@@ -1,0 +1,47 @@
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+    
+    .row.content {height: 550px}
+    
+    
+    .sidenav {
+      padding-top: 25px;
+      background-color:#f1f1f2;
+      height: 100%;
+    }
+    
+   
+    footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+        margin-top:10%; 
+    }
+    
+
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height:auto;
+        padding: 30px;
+      }
+      .row.content {height:auto;} 
+    }
+      body{
+          background-image: url(ws_Digital_Houses_Scenery_&_Creek_1920x1200.jpg);
+          background-repeat: no-repeat;
+          background-size: cover;
+      }
+.red1{
+    
+    margin-left:  25%;
+    width:43px;
+    height:43px;
+}
+.red2{
+width:41px;
+    height: 41px;
+    margin-right:25%;
+}

@@ -1,0 +1,65 @@
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+    .row.content {height: 550px}
+    
+    /* Set gray background color and 100% height */
+    .sidenav {
+      padding-top: 25px;
+      background-color:#f1f1f2;
+      height: 100%;
+    }
+    
+    /* Set black background color, white text and some padding */
+footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+        margin-top:10%;
+    }
+    
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height:auto;
+        padding: 30px;
+      }
+      .row.content {height:auto;} 
+    }
+      body{
+          background-image: url(ws_Digital_Houses_Scenery_&_Creek_1920x1200.jpg);
+          background-size: cover;
+          background-repeat: no-repeat;
+      }
+.principal{
+    margin-left: 48%;
+    margin-top:%;
+}
+.mover
+{
+    margin-left: 25%;
+}
+.logo{
+    margin-left: 30%;
+    margin-right: 25%;
+    margin-top: 12%;
+    
+}
+.logoI{
+    width: 70%;
+    margin-left: 5%;
+}
+.red1{
+    
+    margin-left:  25%;
+    width:43px;
+    height:43px;
+}
+.red2{
+width:41px;
+    height: 41px;
+    margin-right:25%;
+}
