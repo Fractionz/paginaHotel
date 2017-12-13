@@ -1,0 +1,11 @@
+commit aa1192054d79245f9ef922d741f81fca17db78f8
+Author: Chuy <kendo_keita@outlook.com>
+Date:   Tue Dec 12 21:24:30 2017 -0700
+
+    modificamos el logo
+
+commit 59919c4bc6e12d8ae75cee58ac0146815739f0bc
+Author: Chuy <kendo_keita@outlook.com>
+Date:   Tue Dec 12 21:22:29 2017 -0700
+
+    agregamis habis
